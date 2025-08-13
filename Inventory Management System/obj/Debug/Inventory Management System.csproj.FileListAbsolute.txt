@@ -1,0 +1,77 @@
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.LoginForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe.config
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventor.6904B46F.Up2Date
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.MainForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCProductForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCCategoryForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\QRCoder.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCStaffForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCDashboard.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCSuppliersForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserControls.UCAdminForm.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Forms.Form1.resources
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\EPPlus.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\EPPlus.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ClosedXML.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\RBush.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ClosedXML.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\RBush.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.manifest
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.application
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe.manifest
+C:\Users\Admin\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.application
